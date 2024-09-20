@@ -1,0 +1,34 @@
+{
+  "contact": [
+    {
+      "name": "Ebin Reji",
+      "phone": "7306756798",
+      "email": "ebin@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Jilson Saji",
+      "phone": "8484656799",
+      "email": "jilson@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Nikhil Jose",
+      "phone": "9876543210",
+      "email": "nikhil@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Athul Thomas",
+      "phone": "9876543217",
+      "email": "athul@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Midhun",
+      "phone": "8484656733",
+      "email": "midhun@gmail.com",
+      "id": 5
+    }
+  ]
+}
